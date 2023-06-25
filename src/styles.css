@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+.dark-mode {
+    background-color: black;
+   
+  }
+
+
+  body {
+    height: 100vh;
+    margin: 0;
+    padding: 1rem;
+    display: grid;
+    place-items: center;
+    font-family: system-ui;
+  }
+  
